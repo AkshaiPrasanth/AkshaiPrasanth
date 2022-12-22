@@ -1,5 +1,5 @@
 
-![Logo](https://github-readme-stats.vercel.app/api?username=akshaiprasanth&theme=dark&show_icons=true)
+![Logo](https://github-readme-stats.vercel.app/api?username=akshaiprasanth&theme=tokyonight&show_icons=true)
 
 
 # Hi, I'm PRASANTH! 👋
