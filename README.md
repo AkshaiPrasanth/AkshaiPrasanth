@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-A Engineer who want to be a  Data Scientist !.. I bring a unique viewpoint and set of talents to the sector. My technical experience has provided me with a solid foundation in problem solving and analytical thinking.As a young data scientist, I'm quite talented at extracting insights and information from data utilising mathematical and statistical methodologies. I have a solid background in computer science and am knowledgeable about programming languages such as Python. I am a great analyst who can successfully convey my results to both technical and non-technical audiences. I'm used to dealing with huge, complicated datasets and have used machine learning approaches to tackle real-world challenges. I'm always looking for new ways to learn and improve in my career, and I'm enthusiastic about the limitless potential that data science has to offer.
+. I specialize in building robust and user-friendly applications. Proficient in using technologies like Retrofit, Room, DataStore, MVVM, and Dependency Injection. Passionate about continuous learning and improving my skills to deliver high-quality apps.
 
 
 ## 🔗 Links
@@ -16,14 +16,16 @@ A Engineer who want to be a  Data Scientist !.. I bring a unique viewpoint and s
 
 
 ## 🛠 Skills
-1. PYTHON
-2. MACHINE LEARNING
-3. ARTIFICIAL INTELLIGENCE
-4. DEEP LEARNING
-5. DATA SCIENCE
-6. SQL
-7. JavaScript
-8. HTML
-9. CSS
+1.Kotlin
+2.Java
+3. XML
+4.JETPACK COMPOSE
+5. KOTLIN MULTiPLATFORM
+6. DEEP LEARNING
+7. DATA SCIENCE
+8. SQL
+9. JavaScript
+10. HTML
+11. CSS
 
 
