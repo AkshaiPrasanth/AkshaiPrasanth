@@ -11,7 +11,7 @@
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/AkshaiPrasanth/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/prasanth-k-a7b087176](https://www.linkedin.com/in/prasanth-k-a7b087176))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/prasanth-k-a7b087176))
 
 
 
@@ -21,11 +21,9 @@
 3. XML
 4.JETPACK COMPOSE
 5. KOTLIN MULTiPLATFORM
-6. DEEP LEARNING
-7. DATA SCIENCE
-8. SQL
-9. JavaScript
-10. HTML
-11. CSS
+7. SQL
+8. JavaScript
+9. HTML
+10. CSS
 
 
